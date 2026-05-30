@@ -376,7 +376,7 @@ let orjinal_payload = xor_bytes(maskeli_shellcode, gizli_anahtar)
 
 <div align="center">
 
-**MRR Programlama Dili: Teoriden Pratiğe Donanımsal Başucu Rehberi**  
+**MRR Programlama Dili: Teoriden Pratiğe İmkansızları Gerçeğe Çeviren Güç .MRR**  
 *Gücü kontrol et, işlemcinin sınırlarını baştan yaz.*
 
 </div>
