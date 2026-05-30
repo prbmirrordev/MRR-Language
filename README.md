@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌐 MRR Programlama Dili: Tersine Mühendislik, Malware geliştirme, Tool geliştirme ve Kernel Seviye programlamada 1. seviye
-**Mikroişlemciden Bulut Mimarisine MRR Dili Felsefesi ve Çekirdek (Kernel) Pratiği**
+**Mikroişlemciden Bulut Mimarisi ve Kernel Mühendislik İŞTE BU MRR
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
